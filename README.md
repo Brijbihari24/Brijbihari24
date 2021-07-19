@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajit_awadhiya" target="blank"><img src="https://img.shields.io/twitter/follow/ajit_awadhiya?logo=twitter&style=for-the-badge" alt="ajit_awadhiya" /></a> </p>
 
--⚡ Fun fact: You can call me : brij
+  -⚡ Fun fact: You can call me : brij
 
 - 🔭 I’m currently working on **WebStore Project**
 
