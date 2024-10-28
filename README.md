@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijbihari24" alt="brijbihari24" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ajit_awadhiya" target="blank"><img src="https://img.shields.io/twitter/follow/ajit_awadhiya?logo=twitter&style=for-the-badge" alt="ajit_awadhiya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/brijbihari_96" target="blank"><img src="https://img.shields.io/twitter/follow/brijbihari_96?logo=twitter&style=for-the-badge" alt="ajit_awadhiya" /></a> </p>
 
   -⚡ Fun fact: You can call me : brij
 
@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [Currently working](Currently working)
 
-- 📝 I regularly write articles on [https://twitter.com/ajit_awadhiya](https://twitter.com/ajit_awadhiya)
+- 📝 I regularly write articles on [https://twitter.com/brijbihari_96](https://twitter.com/brijbihari_96)
 
 - 💬 Ask me about **reactjs, nodejs, express, mongodb, css and webDev**
 
