@@ -44,13 +44,10 @@ Open to **Frontend / Full-Stack Developer roles**.
 
 ## GitHub Stats
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijbihari24" alt="brijbihari24" /></a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijbihari24&show_icons=true)
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brijbihari24" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brijbihari24)
+>
 
 ---
 
