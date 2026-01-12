@@ -42,13 +42,4 @@ Open to **Frontend / Full-Stack Developer roles**.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brijbihari24&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brijbihari24)
->
-
----
-
 > “Write code that your future teammates will thank you for.”
