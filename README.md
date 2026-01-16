@@ -37,7 +37,7 @@ Open to **Frontend / Full-Stack Developer roles**.
 
 ## Contact
 
-📧 Email: **ajitawadhiya@gmail.com**  
+📧 Email: **awadhiyabrijbihari@gmail.com**  
 💼 LinkedIn: **linkedin.com/in/brijbihari-awadhiya-7a734669/**
 
 ---
